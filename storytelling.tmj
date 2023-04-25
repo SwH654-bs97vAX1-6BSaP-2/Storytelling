@@ -1675,7 +1675,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.json#entry-from-st-1"
+                         "value":"books-building.tmj#entry-from-st-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1692,7 +1692,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.json#entry-from-st-2"
+                         "value":"books-building.tmj#entry-from-st-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1709,7 +1709,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.json#entry-from-st-3"
+                         "value":"books-building.tmj#entry-from-st-3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1726,7 +1726,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.json#entry-from-st-4"
+                         "value":"books-building.tmj#entry-from-st-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1743,7 +1743,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.json#entry-from-st-5"
+                         "value":"books-building.tmj#entry-from-st-5"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1760,7 +1760,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.json#entry-from-st-6"
+                         "value":"books-building.tmj#entry-from-st-6"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1777,7 +1777,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"hobbit-house.json"
+                         "value":"hobbit-house.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1794,7 +1794,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"captains-room.json"
+                         "value":"captains-room.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1811,7 +1811,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"library-1-floor-center.json#entry-from-st"
+                         "value":"library-1-floor-center.tmj#entry-from-st"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1828,7 +1828,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"pine-log-cabin.json"
+                         "value":"pine-log-cabin.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1845,7 +1845,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"cargo-floor.json"
+                         "value":"cargo-floor.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1862,7 +1862,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mansion-room-1.json"
+                         "value":"mansion-room-1.tmj"
                         }],
                  "rotation":0,
                  "type":"area",

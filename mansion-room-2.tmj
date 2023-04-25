@@ -257,7 +257,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mansion-room-3.json#entry-from-left-m1"
+                         "value":"mansion-room-3.tmj#entry-from-left-m1"
                         }],
                  "rotation":0,
                  "type":"area",

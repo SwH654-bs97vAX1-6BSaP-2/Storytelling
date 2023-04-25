@@ -307,7 +307,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mansion-room-3.json#entry-from-right-m2"
+                         "value":"mansion-room-3.tmj#entry-from-right-m2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -324,7 +324,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mansion-room-2.json#entry-from-m3"
+                         "value":"mansion-room-2.tmj#entry-from-m3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -341,7 +341,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.json#entry-from-mansion"
+                         "value":"storytelling.tmj#entry-from-mansion"
                         }],
                  "rotation":0,
                  "type":"area",

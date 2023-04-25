@@ -491,7 +491,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.json#entry-from-library"
+                         "value":"storytelling.tmj#entry-from-library"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -508,7 +508,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"library-1-floor-left.json#entry-from-left"
+                         "value":"library-1-floor-left.tmj#entry-from-left"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -525,7 +525,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"library-1-floor-right.json#entry-from-right"
+                         "value":"library-1-floor-right.tmj#entry-from-right"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -542,7 +542,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"library-2-floor.json#entry-from-center"
+                         "value":"library-2-floor.tmj#entry-from-center"
                         }],
                  "rotation":0,
                  "type":"area",

@@ -219,7 +219,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.json#entry-from-cargo-floor"
+                         "value":"storytelling.tmj#entry-from-cargo-floor"
                         }],
                  "rotation":0,
                  "type":"area",

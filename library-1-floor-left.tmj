@@ -227,7 +227,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"library-1-floor-center.json#entry-from-left"
+                         "value":"library-1-floor-center.tmj#entry-from-left"
                         }],
                  "rotation":0,
                  "type":"area",

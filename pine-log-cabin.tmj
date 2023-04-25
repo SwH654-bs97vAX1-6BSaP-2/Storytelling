@@ -213,7 +213,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.json#entry-from-pine-log-cabin"
+                         "value":"storytelling.tmj#entry-from-pine-log-cabin"
                         }],
                  "rotation":0,
                  "type":"area",
