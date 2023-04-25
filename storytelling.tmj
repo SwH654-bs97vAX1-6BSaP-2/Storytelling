@@ -114625,6 +114625,13 @@
       "type": "tilelayer",
       "visible": true,
       "width": 99,
+      "properties": [
+        {
+          "name": "startLayer",
+          "type": "bool",
+          "value": true
+        }
+      ],
       "x": 0,
       "y": 0
     },
@@ -137797,12 +137804,12 @@
           "visible": true,
           "x": 2621.89512419503,
           "y": 1025.24787897373,
-          "height": 33.7319840539712,
+          "height": 29.2310276007249,
           "properties": [
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "#entry-portal-1"
+              "value": "storytelling.tmj#entry/entry-portal-1"
             }
           ],
           "rotation": 0,
@@ -137820,7 +137827,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "#entry-portal-2"
+              "value": "storytelling.tmj#entry/entry-portal-2"
             }
           ],
           "rotation": 0,
@@ -140794,6 +140801,7 @@
         10592,
         10593,
         10594,
+        0,
         10595,
         10596,
         10597,
@@ -145459,8 +145467,7 @@
         15257,
         15258,
         15259,
-        15260,
-        15261
+        15260
       ],
       "height": 77,
       "id": 5,
@@ -145478,7 +145485,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "storytelling-chunk-1-0ac16098.png",
+      "image": "storytelling-chunk-1-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145504,7 +145511,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "storytelling-chunk-2-0ac16098.png",
+      "image": "storytelling-chunk-2-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145519,7 +145526,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "storytelling-chunk-3-0ac16098.png",
+      "image": "storytelling-chunk-3-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145534,7 +145541,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "storytelling-chunk-4-0ac16098.png",
+      "image": "storytelling-chunk-4-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145549,7 +145556,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "storytelling-chunk-5-0ac16098.png",
+      "image": "storytelling-chunk-5-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145564,7 +145571,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "storytelling-chunk-6-0ac16098.png",
+      "image": "storytelling-chunk-6-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145579,7 +145586,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "storytelling-chunk-7-0ac16098.png",
+      "image": "storytelling-chunk-7-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145594,7 +145601,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "storytelling-chunk-8-0ac16098.png",
+      "image": "storytelling-chunk-8-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145609,7 +145616,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "storytelling-chunk-9-0ac16098.png",
+      "image": "storytelling-chunk-9-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145624,7 +145631,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "storytelling-chunk-10-0ac16098.png",
+      "image": "storytelling-chunk-10-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145639,7 +145646,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "storytelling-chunk-11-0ac16098.png",
+      "image": "storytelling-chunk-11-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145654,7 +145661,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "storytelling-chunk-12-0ac16098.png",
+      "image": "storytelling-chunk-12-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145669,7 +145676,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "storytelling-chunk-13-0ac16098.png",
+      "image": "storytelling-chunk-13-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145684,7 +145691,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "storytelling-chunk-14-0ac16098.png",
+      "image": "storytelling-chunk-14-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145699,7 +145706,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "storytelling-chunk-15-0ac16098.png",
+      "image": "storytelling-chunk-15-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145714,7 +145721,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "storytelling-chunk-16-0ac16098.png",
+      "image": "storytelling-chunk-16-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145729,7 +145736,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "storytelling-chunk-17-0ac16098.png",
+      "image": "storytelling-chunk-17-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145744,7 +145751,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "storytelling-chunk-18-0ac16098.png",
+      "image": "storytelling-chunk-18-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145759,7 +145766,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "storytelling-chunk-19-0ac16098.png",
+      "image": "storytelling-chunk-19-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145774,7 +145781,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "storytelling-chunk-20-0ac16098.png",
+      "image": "storytelling-chunk-20-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145789,7 +145796,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "storytelling-chunk-21-0ac16098.png",
+      "image": "storytelling-chunk-21-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145804,7 +145811,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "storytelling-chunk-22-0ac16098.png",
+      "image": "storytelling-chunk-22-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145819,7 +145826,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "storytelling-chunk-23-0ac16098.png",
+      "image": "storytelling-chunk-23-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145834,7 +145841,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "storytelling-chunk-24-0ac16098.png",
+      "image": "storytelling-chunk-24-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145849,7 +145856,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "storytelling-chunk-25-0ac16098.png",
+      "image": "storytelling-chunk-25-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145864,7 +145871,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "storytelling-chunk-26-0ac16098.png",
+      "image": "storytelling-chunk-26-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145879,7 +145886,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "storytelling-chunk-27-0ac16098.png",
+      "image": "storytelling-chunk-27-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145894,7 +145901,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "storytelling-chunk-28-0ac16098.png",
+      "image": "storytelling-chunk-28-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145909,7 +145916,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "storytelling-chunk-29-0ac16098.png",
+      "image": "storytelling-chunk-29-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145924,7 +145931,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "storytelling-chunk-30-0ac16098.png",
+      "image": "storytelling-chunk-30-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145939,7 +145946,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "storytelling-chunk-31-0ac16098.png",
+      "image": "storytelling-chunk-31-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145954,7 +145961,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "storytelling-chunk-32-0ac16098.png",
+      "image": "storytelling-chunk-32-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145969,7 +145976,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "storytelling-chunk-33-0ac16098.png",
+      "image": "storytelling-chunk-33-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145984,7 +145991,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "storytelling-chunk-34-0ac16098.png",
+      "image": "storytelling-chunk-34-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145999,7 +146006,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "storytelling-chunk-35-0ac16098.png",
+      "image": "storytelling-chunk-35-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146014,7 +146021,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "storytelling-chunk-36-0ac16098.png",
+      "image": "storytelling-chunk-36-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146029,7 +146036,7 @@
     {
       "columns": 16,
       "firstgid": 9217,
-      "image": "storytelling-chunk-37-0ac16098.png",
+      "image": "storytelling-chunk-37-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146044,7 +146051,7 @@
     {
       "columns": 16,
       "firstgid": 9473,
-      "image": "storytelling-chunk-38-0ac16098.png",
+      "image": "storytelling-chunk-38-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146059,7 +146066,7 @@
     {
       "columns": 16,
       "firstgid": 9729,
-      "image": "storytelling-chunk-39-0ac16098.png",
+      "image": "storytelling-chunk-39-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146074,7 +146081,7 @@
     {
       "columns": 16,
       "firstgid": 9985,
-      "image": "storytelling-chunk-40-0ac16098.png",
+      "image": "storytelling-chunk-40-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146089,7 +146096,7 @@
     {
       "columns": 16,
       "firstgid": 10241,
-      "image": "storytelling-chunk-41-0ac16098.png",
+      "image": "storytelling-chunk-41-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146104,7 +146111,7 @@
     {
       "columns": 16,
       "firstgid": 10497,
-      "image": "storytelling-chunk-42-0ac16098.png",
+      "image": "storytelling-chunk-42-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146119,7 +146126,7 @@
     {
       "columns": 16,
       "firstgid": 10753,
-      "image": "storytelling-chunk-43-0ac16098.png",
+      "image": "storytelling-chunk-43-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146134,7 +146141,7 @@
     {
       "columns": 16,
       "firstgid": 11009,
-      "image": "storytelling-chunk-44-0ac16098.png",
+      "image": "storytelling-chunk-44-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146149,7 +146156,7 @@
     {
       "columns": 16,
       "firstgid": 11265,
-      "image": "storytelling-chunk-45-0ac16098.png",
+      "image": "storytelling-chunk-45-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146164,7 +146171,7 @@
     {
       "columns": 16,
       "firstgid": 11521,
-      "image": "storytelling-chunk-46-0ac16098.png",
+      "image": "storytelling-chunk-46-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146179,7 +146186,7 @@
     {
       "columns": 16,
       "firstgid": 11777,
-      "image": "storytelling-chunk-47-0ac16098.png",
+      "image": "storytelling-chunk-47-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146194,7 +146201,7 @@
     {
       "columns": 16,
       "firstgid": 12033,
-      "image": "storytelling-chunk-48-0ac16098.png",
+      "image": "storytelling-chunk-48-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146209,7 +146216,7 @@
     {
       "columns": 16,
       "firstgid": 12289,
-      "image": "storytelling-chunk-49-0ac16098.png",
+      "image": "storytelling-chunk-49-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146224,7 +146231,7 @@
     {
       "columns": 16,
       "firstgid": 12545,
-      "image": "storytelling-chunk-50-0ac16098.png",
+      "image": "storytelling-chunk-50-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146239,7 +146246,7 @@
     {
       "columns": 16,
       "firstgid": 12801,
-      "image": "storytelling-chunk-51-0ac16098.png",
+      "image": "storytelling-chunk-51-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146254,7 +146261,7 @@
     {
       "columns": 16,
       "firstgid": 13057,
-      "image": "storytelling-chunk-52-0ac16098.png",
+      "image": "storytelling-chunk-52-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146269,7 +146276,7 @@
     {
       "columns": 16,
       "firstgid": 13313,
-      "image": "storytelling-chunk-53-0ac16098.png",
+      "image": "storytelling-chunk-53-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146284,7 +146291,7 @@
     {
       "columns": 16,
       "firstgid": 13569,
-      "image": "storytelling-chunk-54-0ac16098.png",
+      "image": "storytelling-chunk-54-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146299,7 +146306,7 @@
     {
       "columns": 16,
       "firstgid": 13825,
-      "image": "storytelling-chunk-55-0ac16098.png",
+      "image": "storytelling-chunk-55-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146314,7 +146321,7 @@
     {
       "columns": 16,
       "firstgid": 14081,
-      "image": "storytelling-chunk-56-0ac16098.png",
+      "image": "storytelling-chunk-56-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146329,7 +146336,7 @@
     {
       "columns": 16,
       "firstgid": 14337,
-      "image": "storytelling-chunk-57-0ac16098.png",
+      "image": "storytelling-chunk-57-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146344,7 +146351,7 @@
     {
       "columns": 16,
       "firstgid": 14593,
-      "image": "storytelling-chunk-58-0ac16098.png",
+      "image": "storytelling-chunk-58-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146359,7 +146366,7 @@
     {
       "columns": 16,
       "firstgid": 14849,
-      "image": "storytelling-chunk-59-0ac16098.png",
+      "image": "storytelling-chunk-59-57758135.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146374,14 +146381,14 @@
     {
       "columns": 13,
       "firstgid": 15105,
-      "image": "storytelling-chunk-60-0ac16098.png",
+      "image": "storytelling-chunk-60-57758135.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
       "name": "Chunk 60",
       "properties": [],
       "spacing": 0,
-      "tilecount": 157,
+      "tilecount": 156,
       "tileheight": 32,
       "tilewidth": 32,
       "tiles": []
