@@ -137550,7 +137550,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "books-building.json#entry-from-st-1"
+              "value": "books-building.tmj#entry-from-st-1"
             }
           ],
           "rotation": 0,
@@ -137568,7 +137568,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "books-building.json#entry-from-st-2"
+              "value": "books-building.tmj#entry-from-st-2"
             }
           ],
           "rotation": 0,
@@ -137586,7 +137586,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "books-building.json#entry-from-st-3"
+              "value": "books-building.tmj#entry-from-st-3"
             }
           ],
           "rotation": 0,
@@ -137604,7 +137604,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "books-building.json#entry-from-st-4"
+              "value": "books-building.tmj#entry-from-st-4"
             }
           ],
           "rotation": 0,
@@ -137622,7 +137622,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "books-building.json#entry-from-st-5"
+              "value": "books-building.tmj#entry-from-st-5"
             }
           ],
           "rotation": 0,
@@ -137640,7 +137640,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "books-building.json#entry-from-st-6"
+              "value": "books-building.tmj#entry-from-st-6"
             }
           ],
           "rotation": 0,
@@ -137658,7 +137658,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "hobbit-house.json"
+              "value": "hobbit-house.tmj"
             }
           ],
           "rotation": 0,
@@ -137676,7 +137676,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "captains-room.json"
+              "value": "captains-room.tmj"
             }
           ],
           "rotation": 0,
@@ -137694,7 +137694,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "library-1-floor-center.json#entry-from-st"
+              "value": "library-1-floor-center.tmj#entry-from-st"
             }
           ],
           "rotation": 0,
@@ -137712,7 +137712,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "pine-log-cabin.json"
+              "value": "pine-log-cabin.tmj"
             }
           ],
           "rotation": 0,
@@ -137730,7 +137730,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "cargo-floor.json"
+              "value": "cargo-floor.tmj"
             }
           ],
           "rotation": 0,
@@ -137748,7 +137748,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "mansion-room-1.json"
+              "value": "mansion-room-1.tmj"
             }
           ],
           "rotation": 0,
@@ -145478,7 +145478,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "storytelling-chunk-1-f99c5a54.png",
+      "image": "storytelling-chunk-1-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145504,7 +145504,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "storytelling-chunk-2-f99c5a54.png",
+      "image": "storytelling-chunk-2-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145519,7 +145519,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "storytelling-chunk-3-f99c5a54.png",
+      "image": "storytelling-chunk-3-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145534,7 +145534,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "storytelling-chunk-4-f99c5a54.png",
+      "image": "storytelling-chunk-4-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145549,7 +145549,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "storytelling-chunk-5-f99c5a54.png",
+      "image": "storytelling-chunk-5-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145564,7 +145564,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "storytelling-chunk-6-f99c5a54.png",
+      "image": "storytelling-chunk-6-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145579,7 +145579,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "storytelling-chunk-7-f99c5a54.png",
+      "image": "storytelling-chunk-7-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145594,7 +145594,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "storytelling-chunk-8-f99c5a54.png",
+      "image": "storytelling-chunk-8-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145609,7 +145609,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "storytelling-chunk-9-f99c5a54.png",
+      "image": "storytelling-chunk-9-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145624,7 +145624,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "storytelling-chunk-10-f99c5a54.png",
+      "image": "storytelling-chunk-10-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145639,7 +145639,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "storytelling-chunk-11-f99c5a54.png",
+      "image": "storytelling-chunk-11-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145654,7 +145654,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "storytelling-chunk-12-f99c5a54.png",
+      "image": "storytelling-chunk-12-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145669,7 +145669,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "storytelling-chunk-13-f99c5a54.png",
+      "image": "storytelling-chunk-13-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145684,7 +145684,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "storytelling-chunk-14-f99c5a54.png",
+      "image": "storytelling-chunk-14-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145699,7 +145699,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "storytelling-chunk-15-f99c5a54.png",
+      "image": "storytelling-chunk-15-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145714,7 +145714,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "storytelling-chunk-16-f99c5a54.png",
+      "image": "storytelling-chunk-16-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145729,7 +145729,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "storytelling-chunk-17-f99c5a54.png",
+      "image": "storytelling-chunk-17-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145744,7 +145744,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "storytelling-chunk-18-f99c5a54.png",
+      "image": "storytelling-chunk-18-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145759,7 +145759,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "storytelling-chunk-19-f99c5a54.png",
+      "image": "storytelling-chunk-19-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145774,7 +145774,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "storytelling-chunk-20-f99c5a54.png",
+      "image": "storytelling-chunk-20-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145789,7 +145789,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "storytelling-chunk-21-f99c5a54.png",
+      "image": "storytelling-chunk-21-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145804,7 +145804,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "storytelling-chunk-22-f99c5a54.png",
+      "image": "storytelling-chunk-22-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145819,7 +145819,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "storytelling-chunk-23-f99c5a54.png",
+      "image": "storytelling-chunk-23-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145834,7 +145834,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "storytelling-chunk-24-f99c5a54.png",
+      "image": "storytelling-chunk-24-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145849,7 +145849,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "storytelling-chunk-25-f99c5a54.png",
+      "image": "storytelling-chunk-25-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145864,7 +145864,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "storytelling-chunk-26-f99c5a54.png",
+      "image": "storytelling-chunk-26-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145879,7 +145879,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "storytelling-chunk-27-f99c5a54.png",
+      "image": "storytelling-chunk-27-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145894,7 +145894,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "storytelling-chunk-28-f99c5a54.png",
+      "image": "storytelling-chunk-28-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145909,7 +145909,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "storytelling-chunk-29-f99c5a54.png",
+      "image": "storytelling-chunk-29-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145924,7 +145924,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "storytelling-chunk-30-f99c5a54.png",
+      "image": "storytelling-chunk-30-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145939,7 +145939,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "storytelling-chunk-31-f99c5a54.png",
+      "image": "storytelling-chunk-31-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145954,7 +145954,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "storytelling-chunk-32-f99c5a54.png",
+      "image": "storytelling-chunk-32-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145969,7 +145969,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "storytelling-chunk-33-f99c5a54.png",
+      "image": "storytelling-chunk-33-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145984,7 +145984,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "storytelling-chunk-34-f99c5a54.png",
+      "image": "storytelling-chunk-34-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -145999,7 +145999,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "storytelling-chunk-35-f99c5a54.png",
+      "image": "storytelling-chunk-35-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146014,7 +146014,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "storytelling-chunk-36-f99c5a54.png",
+      "image": "storytelling-chunk-36-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146029,7 +146029,7 @@
     {
       "columns": 16,
       "firstgid": 9217,
-      "image": "storytelling-chunk-37-f99c5a54.png",
+      "image": "storytelling-chunk-37-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146044,7 +146044,7 @@
     {
       "columns": 16,
       "firstgid": 9473,
-      "image": "storytelling-chunk-38-f99c5a54.png",
+      "image": "storytelling-chunk-38-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146059,7 +146059,7 @@
     {
       "columns": 16,
       "firstgid": 9729,
-      "image": "storytelling-chunk-39-f99c5a54.png",
+      "image": "storytelling-chunk-39-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146074,7 +146074,7 @@
     {
       "columns": 16,
       "firstgid": 9985,
-      "image": "storytelling-chunk-40-f99c5a54.png",
+      "image": "storytelling-chunk-40-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146089,7 +146089,7 @@
     {
       "columns": 16,
       "firstgid": 10241,
-      "image": "storytelling-chunk-41-f99c5a54.png",
+      "image": "storytelling-chunk-41-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146104,7 +146104,7 @@
     {
       "columns": 16,
       "firstgid": 10497,
-      "image": "storytelling-chunk-42-f99c5a54.png",
+      "image": "storytelling-chunk-42-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146119,7 +146119,7 @@
     {
       "columns": 16,
       "firstgid": 10753,
-      "image": "storytelling-chunk-43-f99c5a54.png",
+      "image": "storytelling-chunk-43-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146134,7 +146134,7 @@
     {
       "columns": 16,
       "firstgid": 11009,
-      "image": "storytelling-chunk-44-f99c5a54.png",
+      "image": "storytelling-chunk-44-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146149,7 +146149,7 @@
     {
       "columns": 16,
       "firstgid": 11265,
-      "image": "storytelling-chunk-45-f99c5a54.png",
+      "image": "storytelling-chunk-45-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146164,7 +146164,7 @@
     {
       "columns": 16,
       "firstgid": 11521,
-      "image": "storytelling-chunk-46-f99c5a54.png",
+      "image": "storytelling-chunk-46-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146179,7 +146179,7 @@
     {
       "columns": 16,
       "firstgid": 11777,
-      "image": "storytelling-chunk-47-f99c5a54.png",
+      "image": "storytelling-chunk-47-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146194,7 +146194,7 @@
     {
       "columns": 16,
       "firstgid": 12033,
-      "image": "storytelling-chunk-48-f99c5a54.png",
+      "image": "storytelling-chunk-48-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146209,7 +146209,7 @@
     {
       "columns": 16,
       "firstgid": 12289,
-      "image": "storytelling-chunk-49-f99c5a54.png",
+      "image": "storytelling-chunk-49-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146224,7 +146224,7 @@
     {
       "columns": 16,
       "firstgid": 12545,
-      "image": "storytelling-chunk-50-f99c5a54.png",
+      "image": "storytelling-chunk-50-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146239,7 +146239,7 @@
     {
       "columns": 16,
       "firstgid": 12801,
-      "image": "storytelling-chunk-51-f99c5a54.png",
+      "image": "storytelling-chunk-51-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146254,7 +146254,7 @@
     {
       "columns": 16,
       "firstgid": 13057,
-      "image": "storytelling-chunk-52-f99c5a54.png",
+      "image": "storytelling-chunk-52-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146269,7 +146269,7 @@
     {
       "columns": 16,
       "firstgid": 13313,
-      "image": "storytelling-chunk-53-f99c5a54.png",
+      "image": "storytelling-chunk-53-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146284,7 +146284,7 @@
     {
       "columns": 16,
       "firstgid": 13569,
-      "image": "storytelling-chunk-54-f99c5a54.png",
+      "image": "storytelling-chunk-54-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146299,7 +146299,7 @@
     {
       "columns": 16,
       "firstgid": 13825,
-      "image": "storytelling-chunk-55-f99c5a54.png",
+      "image": "storytelling-chunk-55-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146314,7 +146314,7 @@
     {
       "columns": 16,
       "firstgid": 14081,
-      "image": "storytelling-chunk-56-f99c5a54.png",
+      "image": "storytelling-chunk-56-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146329,7 +146329,7 @@
     {
       "columns": 16,
       "firstgid": 14337,
-      "image": "storytelling-chunk-57-f99c5a54.png",
+      "image": "storytelling-chunk-57-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146344,7 +146344,7 @@
     {
       "columns": 16,
       "firstgid": 14593,
-      "image": "storytelling-chunk-58-f99c5a54.png",
+      "image": "storytelling-chunk-58-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146359,7 +146359,7 @@
     {
       "columns": 16,
       "firstgid": 14849,
-      "image": "storytelling-chunk-59-f99c5a54.png",
+      "image": "storytelling-chunk-59-0ac16098.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -146374,7 +146374,7 @@
     {
       "columns": 13,
       "firstgid": 15105,
-      "image": "storytelling-chunk-60-f99c5a54.png",
+      "image": "storytelling-chunk-60-0ac16098.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,

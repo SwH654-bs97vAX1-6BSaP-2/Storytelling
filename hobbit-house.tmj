@@ -8016,7 +8016,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.json#entry-from-hobbit-house"
+              "value": "storytelling.tmj#entry-from-hobbit-house"
             }
           ],
           "rotation": 0,
@@ -10031,7 +10031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "hobbit-house-chunk-1-74e49de3.png",
+      "image": "hobbit-house-chunk-1-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10057,7 +10057,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "hobbit-house-chunk-2-74e49de3.png",
+      "image": "hobbit-house-chunk-2-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10072,7 +10072,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "hobbit-house-chunk-3-74e49de3.png",
+      "image": "hobbit-house-chunk-3-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10087,7 +10087,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "hobbit-house-chunk-4-74e49de3.png",
+      "image": "hobbit-house-chunk-4-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10102,7 +10102,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "hobbit-house-chunk-5-74e49de3.png",
+      "image": "hobbit-house-chunk-5-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10117,7 +10117,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "hobbit-house-chunk-6-74e49de3.png",
+      "image": "hobbit-house-chunk-6-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10132,7 +10132,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "hobbit-house-chunk-7-74e49de3.png",
+      "image": "hobbit-house-chunk-7-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10147,7 +10147,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "hobbit-house-chunk-8-74e49de3.png",
+      "image": "hobbit-house-chunk-8-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10162,7 +10162,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "hobbit-house-chunk-9-74e49de3.png",
+      "image": "hobbit-house-chunk-9-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10177,7 +10177,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "hobbit-house-chunk-10-74e49de3.png",
+      "image": "hobbit-house-chunk-10-39f5e4e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10192,7 +10192,7 @@
     {
       "columns": 15,
       "firstgid": 2561,
-      "image": "hobbit-house-chunk-11-74e49de3.png",
+      "image": "hobbit-house-chunk-11-39f5e4e4.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,

@@ -12004,7 +12004,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "mansion-room-3.json#entry-from-right-m2"
+              "value": "mansion-room-3.tmj#entry-from-right-m2"
             }
           ],
           "rotation": 0,
@@ -12022,7 +12022,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "mansion-room-2.json#entry-from-m3"
+              "value": "mansion-room-2.tmj#entry-from-m3"
             }
           ],
           "rotation": 0,
@@ -12040,7 +12040,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.json#entry-from-mansion"
+              "value": "storytelling.tmj#entry-from-mansion"
             }
           ],
           "rotation": 0,
@@ -14078,7 +14078,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "mansion-room-1-chunk-1-4725e65f.png",
+      "image": "mansion-room-1-chunk-1-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14104,7 +14104,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "mansion-room-1-chunk-2-4725e65f.png",
+      "image": "mansion-room-1-chunk-2-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14119,7 +14119,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "mansion-room-1-chunk-3-4725e65f.png",
+      "image": "mansion-room-1-chunk-3-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14134,7 +14134,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "mansion-room-1-chunk-4-4725e65f.png",
+      "image": "mansion-room-1-chunk-4-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14149,7 +14149,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "mansion-room-1-chunk-5-4725e65f.png",
+      "image": "mansion-room-1-chunk-5-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14164,7 +14164,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "mansion-room-1-chunk-6-4725e65f.png",
+      "image": "mansion-room-1-chunk-6-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14179,7 +14179,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "mansion-room-1-chunk-7-4725e65f.png",
+      "image": "mansion-room-1-chunk-7-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14194,7 +14194,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "mansion-room-1-chunk-8-4725e65f.png",
+      "image": "mansion-room-1-chunk-8-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14209,7 +14209,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "mansion-room-1-chunk-9-4725e65f.png",
+      "image": "mansion-room-1-chunk-9-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14224,7 +14224,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "mansion-room-1-chunk-10-4725e65f.png",
+      "image": "mansion-room-1-chunk-10-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14239,7 +14239,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "mansion-room-1-chunk-11-4725e65f.png",
+      "image": "mansion-room-1-chunk-11-f369254d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14254,7 +14254,7 @@
     {
       "columns": 12,
       "firstgid": 2817,
-      "image": "mansion-room-1-chunk-12-4725e65f.png",
+      "image": "mansion-room-1-chunk-12-f369254d.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,

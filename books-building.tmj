@@ -36277,7 +36277,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.json#entry-from-books-1"
+              "value": "storytelling.tmj#entry-from-books-1"
             }
           ],
           "rotation": 0,
@@ -36295,7 +36295,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.json#entry-from-books-2"
+              "value": "storytelling.tmj#entry-from-books-2"
             }
           ],
           "rotation": 0,
@@ -36313,7 +36313,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.json#entry-from-books-3"
+              "value": "storytelling.tmj#entry-from-books-3"
             }
           ],
           "rotation": 0,
@@ -36331,7 +36331,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.json#entry-from-books-4"
+              "value": "storytelling.tmj#entry-from-books-4"
             }
           ],
           "rotation": 0,
@@ -36349,7 +36349,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.json#entry-from-books-5"
+              "value": "storytelling.tmj#entry-from-books-5"
             }
           ],
           "rotation": 0,
@@ -36367,7 +36367,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.json#entry-from-books-6"
+              "value": "storytelling.tmj#entry-from-books-6"
             }
           ],
           "rotation": 0,
@@ -43631,7 +43631,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "books-building-chunk-1-2e07cde9.png",
+      "image": "books-building-chunk-1-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43657,7 +43657,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "books-building-chunk-2-2e07cde9.png",
+      "image": "books-building-chunk-2-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43672,7 +43672,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "books-building-chunk-3-2e07cde9.png",
+      "image": "books-building-chunk-3-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43687,7 +43687,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "books-building-chunk-4-2e07cde9.png",
+      "image": "books-building-chunk-4-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43702,7 +43702,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "books-building-chunk-5-2e07cde9.png",
+      "image": "books-building-chunk-5-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43717,7 +43717,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "books-building-chunk-6-2e07cde9.png",
+      "image": "books-building-chunk-6-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43732,7 +43732,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "books-building-chunk-7-2e07cde9.png",
+      "image": "books-building-chunk-7-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43747,7 +43747,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "books-building-chunk-8-2e07cde9.png",
+      "image": "books-building-chunk-8-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43762,7 +43762,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "books-building-chunk-9-2e07cde9.png",
+      "image": "books-building-chunk-9-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43777,7 +43777,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "books-building-chunk-10-2e07cde9.png",
+      "image": "books-building-chunk-10-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43792,7 +43792,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "books-building-chunk-11-2e07cde9.png",
+      "image": "books-building-chunk-11-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43807,7 +43807,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "books-building-chunk-12-2e07cde9.png",
+      "image": "books-building-chunk-12-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43822,7 +43822,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "books-building-chunk-13-2e07cde9.png",
+      "image": "books-building-chunk-13-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43837,7 +43837,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "books-building-chunk-14-2e07cde9.png",
+      "image": "books-building-chunk-14-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43852,7 +43852,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "books-building-chunk-15-2e07cde9.png",
+      "image": "books-building-chunk-15-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43867,7 +43867,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "books-building-chunk-16-2e07cde9.png",
+      "image": "books-building-chunk-16-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43882,7 +43882,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "books-building-chunk-17-2e07cde9.png",
+      "image": "books-building-chunk-17-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43897,7 +43897,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "books-building-chunk-18-2e07cde9.png",
+      "image": "books-building-chunk-18-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43912,7 +43912,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "books-building-chunk-19-2e07cde9.png",
+      "image": "books-building-chunk-19-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43927,7 +43927,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "books-building-chunk-20-2e07cde9.png",
+      "image": "books-building-chunk-20-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43942,7 +43942,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "books-building-chunk-21-2e07cde9.png",
+      "image": "books-building-chunk-21-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43957,7 +43957,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "books-building-chunk-22-2e07cde9.png",
+      "image": "books-building-chunk-22-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43972,7 +43972,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "books-building-chunk-23-2e07cde9.png",
+      "image": "books-building-chunk-23-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -43987,7 +43987,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "books-building-chunk-24-2e07cde9.png",
+      "image": "books-building-chunk-24-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44002,7 +44002,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "books-building-chunk-25-2e07cde9.png",
+      "image": "books-building-chunk-25-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44017,7 +44017,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "books-building-chunk-26-2e07cde9.png",
+      "image": "books-building-chunk-26-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44032,7 +44032,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "books-building-chunk-27-2e07cde9.png",
+      "image": "books-building-chunk-27-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44047,7 +44047,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "books-building-chunk-28-2e07cde9.png",
+      "image": "books-building-chunk-28-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44062,7 +44062,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "books-building-chunk-29-2e07cde9.png",
+      "image": "books-building-chunk-29-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44077,7 +44077,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "books-building-chunk-30-2e07cde9.png",
+      "image": "books-building-chunk-30-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44092,7 +44092,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "books-building-chunk-31-2e07cde9.png",
+      "image": "books-building-chunk-31-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44107,7 +44107,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "books-building-chunk-32-2e07cde9.png",
+      "image": "books-building-chunk-32-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44122,7 +44122,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "books-building-chunk-33-2e07cde9.png",
+      "image": "books-building-chunk-33-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44137,7 +44137,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "books-building-chunk-34-2e07cde9.png",
+      "image": "books-building-chunk-34-e4575045.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,

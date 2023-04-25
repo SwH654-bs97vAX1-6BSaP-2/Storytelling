@@ -8016,7 +8016,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.json#entry-from-captains-room"
+              "value": "storytelling.tmj#entry-from-captains-room"
             }
           ],
           "rotation": 0,
@@ -10031,7 +10031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "captains-room-chunk-1-6f0dc5ff.png",
+      "image": "captains-room-chunk-1-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10057,7 +10057,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "captains-room-chunk-2-6f0dc5ff.png",
+      "image": "captains-room-chunk-2-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10072,7 +10072,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "captains-room-chunk-3-6f0dc5ff.png",
+      "image": "captains-room-chunk-3-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10087,7 +10087,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "captains-room-chunk-4-6f0dc5ff.png",
+      "image": "captains-room-chunk-4-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10102,7 +10102,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "captains-room-chunk-5-6f0dc5ff.png",
+      "image": "captains-room-chunk-5-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10117,7 +10117,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "captains-room-chunk-6-6f0dc5ff.png",
+      "image": "captains-room-chunk-6-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10132,7 +10132,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "captains-room-chunk-7-6f0dc5ff.png",
+      "image": "captains-room-chunk-7-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10147,7 +10147,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "captains-room-chunk-8-6f0dc5ff.png",
+      "image": "captains-room-chunk-8-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10162,7 +10162,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "captains-room-chunk-9-6f0dc5ff.png",
+      "image": "captains-room-chunk-9-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10177,7 +10177,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "captains-room-chunk-10-6f0dc5ff.png",
+      "image": "captains-room-chunk-10-ee8d8eea.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10192,7 +10192,7 @@
     {
       "columns": 6,
       "firstgid": 2561,
-      "image": "captains-room-chunk-11-6f0dc5ff.png",
+      "image": "captains-room-chunk-11-ee8d8eea.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,

@@ -10146,7 +10146,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "library-1-floor-center.json#entry-from-left"
+              "value": "library-1-floor-center.tmj#entry-from-left"
             }
           ],
           "rotation": 0,
@@ -12701,7 +12701,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "library-1-floor-left-chunk-1-94f69752.png",
+      "image": "library-1-floor-left-chunk-1-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12727,7 +12727,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "library-1-floor-left-chunk-2-94f69752.png",
+      "image": "library-1-floor-left-chunk-2-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12742,7 +12742,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "library-1-floor-left-chunk-3-94f69752.png",
+      "image": "library-1-floor-left-chunk-3-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12757,7 +12757,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "library-1-floor-left-chunk-4-94f69752.png",
+      "image": "library-1-floor-left-chunk-4-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12772,7 +12772,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "library-1-floor-left-chunk-5-94f69752.png",
+      "image": "library-1-floor-left-chunk-5-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12787,7 +12787,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "library-1-floor-left-chunk-6-94f69752.png",
+      "image": "library-1-floor-left-chunk-6-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12802,7 +12802,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "library-1-floor-left-chunk-7-94f69752.png",
+      "image": "library-1-floor-left-chunk-7-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12817,7 +12817,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "library-1-floor-left-chunk-8-94f69752.png",
+      "image": "library-1-floor-left-chunk-8-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12832,7 +12832,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "library-1-floor-left-chunk-9-94f69752.png",
+      "image": "library-1-floor-left-chunk-9-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12847,7 +12847,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "library-1-floor-left-chunk-10-94f69752.png",
+      "image": "library-1-floor-left-chunk-10-216179dc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12862,7 +12862,7 @@
     {
       "columns": 11,
       "firstgid": 2561,
-      "image": "library-1-floor-left-chunk-11-94f69752.png",
+      "image": "library-1-floor-left-chunk-11-216179dc.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
