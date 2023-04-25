@@ -364,7 +364,7 @@
         {
          "columns":25,
          "firstgid":1,
-         "image":"..\/tilesets\/mansion-room-2-bg.png",
+         "image":"tilesets\/mansion-room-2-bg.png",
          "imageheight":900,
          "imagewidth":802,
          "margin":0,
@@ -377,7 +377,7 @@
         {
          "columns":25,
          "firstgid":701,
-         "image":"..\/tilesets\/mansion-room-2-fg.png",
+         "image":"tilesets\/mansion-room-2-fg.png",
          "imageheight":900,
          "imagewidth":802,
          "margin":0,
@@ -390,7 +390,7 @@
         {
          "columns":60,
          "firstgid":1401,
-         "image":"..\/tilesets\/books-bg.png",
+         "image":"tilesets\/books-bg.png",
          "imageheight":1080,
          "imagewidth":1920,
          "margin":0,
@@ -403,7 +403,7 @@
         {
          "columns":6,
          "firstgid":3381,
-         "image":"..\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,

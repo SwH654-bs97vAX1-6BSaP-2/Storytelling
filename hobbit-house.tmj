@@ -304,7 +304,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -327,7 +327,7 @@
         {
          "columns":22,
          "firstgid":13,
-         "image":"..\/tilesets\/hobbit-house-bg.png",
+         "image":"tilesets\/hobbit-house-bg.png",
          "imageheight":640,
          "imagewidth":704,
          "margin":0,
@@ -340,7 +340,7 @@
         {
          "columns":60,
          "firstgid":453,
-         "image":"..\/tilesets\/books-bg.png",
+         "image":"tilesets\/books-bg.png",
          "imageheight":1080,
          "imagewidth":1920,
          "margin":0,
@@ -353,7 +353,7 @@
         {
          "columns":22,
          "firstgid":2433,
-         "image":"..\/tilesets\/hobbit-house-fg.png",
+         "image":"tilesets\/hobbit-house-fg.png",
          "imageheight":640,
          "imagewidth":704,
          "margin":0,

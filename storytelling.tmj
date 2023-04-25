@@ -2059,7 +2059,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -2082,7 +2082,7 @@
         {
          "columns":99,
          "firstgid":13,
-         "image":"..\/tilesets\/storytelling-bg.png",
+         "image":"tilesets\/storytelling-bg.png",
          "imageheight":2474,
          "imagewidth":3168,
          "margin":0,
@@ -2095,7 +2095,7 @@
         {
          "columns":99,
          "firstgid":7636,
-         "image":"..\/tilesets\/storytelling-fg.png",
+         "image":"tilesets\/storytelling-fg.png",
          "imageheight":2474,
          "imagewidth":3168,
          "margin":0,
@@ -2108,7 +2108,7 @@
         {
          "columns":27,
          "firstgid":15259,
-         "image":"..\/tilesets\/white-boards.png",
+         "image":"tilesets\/white-boards.png",
          "imageheight":640,
          "imagewidth":865,
          "margin":0,

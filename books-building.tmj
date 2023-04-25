@@ -811,7 +811,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -834,7 +834,7 @@
         {
          "columns":60,
          "firstgid":13,
-         "image":"..\/tilesets\/books-bg.png",
+         "image":"tilesets\/books-bg.png",
          "imageheight":1080,
          "imagewidth":1920,
          "margin":0,
@@ -847,7 +847,7 @@
         {
          "columns":43,
          "firstgid":1993,
-         "image":"..\/tilesets\/books-building-2-bg.png",
+         "image":"tilesets\/books-building-2-bg.png",
          "imageheight":1248,
          "imagewidth":1405,
          "margin":0,
@@ -860,7 +860,7 @@
         {
          "columns":43,
          "firstgid":3670,
-         "image":"..\/tilesets\/books-building-1-bg.png",
+         "image":"tilesets\/books-building-1-bg.png",
          "imageheight":1248,
          "imagewidth":1405,
          "margin":0,
@@ -873,7 +873,7 @@
         {
          "columns":43,
          "firstgid":5347,
-         "image":"..\/tilesets\/books-building-1-fg.png",
+         "image":"tilesets\/books-building-1-fg.png",
          "imageheight":1248,
          "imagewidth":1405,
          "margin":0,
@@ -886,7 +886,7 @@
         {
          "columns":43,
          "firstgid":7024,
-         "image":"..\/tilesets\/books-building-2-fg.png",
+         "image":"tilesets\/books-building-2-fg.png",
          "imageheight":1248,
          "imagewidth":1405,
          "margin":0,
